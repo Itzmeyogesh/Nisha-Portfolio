@@ -1,5 +1,5 @@
 import { FaArrowUp } from 'react-icons/fa';
-import technicalOneLogo from '../assets/Logo.jpg'; // ✅ Make sure the path is correct
+import technicalOneLogo from '../assets/logo.jpg'; // ✅ Make sure the path is correct
 
 const Footer = () => {
   const scrollToTop = () => {
