@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { FaLinkedin, FaGithub, FaArrowDown } from 'react-icons/fa';
 import Typewriter from 'typewriter-effect';
-import profileImg from '../assets/profile.jpg'; // Ensure correct path
+import profileImg from '../assets/Profile.jpg'; // Ensure correct path
 
 const Home = () => {
   return (
