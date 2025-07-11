@@ -1,5 +1,5 @@
 import React from 'react';
-import Sidebar from './components/sidebar';
+import Sidebar from './components/Sidebar';
 import Home from './components/Home';
 import About from './components/About';
 import Skills from './components/Skills';
